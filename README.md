@@ -4,7 +4,6 @@
 
 The app is in Polish. [Opis po polsku ↓](#po-polsku)
 
-![Quality of one night: haze from 23:10, an obstruction from 3:47](screenshots/quality.png)
 
 ## What it does
 
