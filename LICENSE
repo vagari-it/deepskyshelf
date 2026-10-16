@@ -1,0 +1,51 @@
+DeepSkyShelf – licencja freeware
+Copyright © 2026 vagari.it. Wszelkie prawa zastrzeżone.
+
+1. Program DeepSkyShelf („Program”) jest udostępniany bezpłatnie (freeware). Możesz go
+   instalować i używać bez opłat, prywatnie i zawodowo, na dowolnej liczbie komputerów.
+
+2. Możesz przekazywać Program dalej bezpłatnie, wyłącznie w niezmienionej postaci, w oryginalnej
+   paczce i razem z tą licencją. Nie wolno go sprzedawać ani dołączać do płatnych produktów bez
+   zgody autora.
+
+3. Nie wolno zmieniać Programu, dekompilować go, deasemblować ani w inny sposób odtwarzać jego
+   kodu źródłowego, z wyjątkiem przypadków, na które wprost zezwala prawo.
+
+4. Program jest dostarczany „tak jak jest”, bez jakiejkolwiek gwarancji. Program działa na Twoich
+   plikach (między innymi przenosi je do Kosza i kopiuje do archiwum), dlatego przed użyciem zrób
+   kopię zapasową. W najszerszym zakresie dozwolonym przez prawo autor nie odpowiada za szkody
+   wynikłe z używania Programu, w tym za utratę danych.
+
+5. Autor może zmienić warunki licencji dla przyszłych wersji Programu. Wersje już pobrane
+   pozostają na dotychczasowych warunkach.
+
+6. Program zawiera komponenty innych autorów, udostępnione na ich własnych licencjach:
+   GRDB.swift (licencja MIT, © Gwendal Roué) i Swift Argument Parser (Apache License 2.0,
+   © Apple Inc.). Ich pełne teksty są w folderze Contents/Resources/Licenses wewnątrz aplikacji.
+
+-------------------------------------------------------------------------------
+
+DeepSkyShelf – freeware licence
+Copyright © 2026 vagari.it. All rights reserved.
+
+1. DeepSkyShelf (the "Software") is freeware. You may install and use it free of charge, for
+   private and professional purposes, on any number of computers.
+
+2. You may redistribute the Software free of charge, only unmodified, in its original package and
+   together with this licence. You may not sell it or bundle it with paid products without the
+   author's permission.
+
+3. You may not modify, decompile, disassemble or otherwise reverse engineer the Software, except
+   where applicable law expressly permits it.
+
+4. The Software is provided "as is", without warranty of any kind. It works on your files (among
+   other things it moves them to the Trash and copies them to archives), so make a backup before
+   using it. To the fullest extent permitted by law, the author is not liable for any damage
+   arising from its use, including loss of data.
+
+5. The author may change the licence terms for future versions. Versions already downloaded keep
+   the terms they came with.
+
+6. The Software includes third-party components under their own licences: GRDB.swift (MIT
+   License, © Gwendal Roué) and Swift Argument Parser (Apache License 2.0, © Apple Inc.). Their
+   full texts are in Contents/Resources/Licenses inside the application.
