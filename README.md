@@ -15,9 +15,6 @@ The app is in Polish. [Opis po polsku ↓](#po-polsku)
 - **Reclaiming space.** Finds Siril working folders (`process/`, `cache/`), duplicates, damaged files and darks/biases copied into project folders. You always see the list first. Files go to the Trash and can be put back.
 - **Archive.** Copies finished projects to a NAS or to S3-compatible cloud storage (e.g. Backblaze B2), verifies every file, and can then move the local copies to the Trash. Projects can be restored from the archive.
 
-| Targets | Calibration | Reclaiming space |
-|---|---|---|
-| ![Targets](screenshots/targets.png) | ![Calibration](screenshots/calibration.png) | ![Reclaiming space](screenshots/cleanup.png) |
 
 ## Requirements
 
